@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on back-end API dev and Master degree in Healthcare Interoperability
 - 🌱 I’m currently learning Microservices/Edge/OpenWrt 
-- 👯 I’m looking to collaborate on Emulators dev
+- 👯 I’m looking to collaborate on Emulators and Game Engine dev
 
 <div>
   <a href="https://github.com/allenderalencar">
