@@ -1,9 +1,12 @@
 ### Hello (●'◡'●)
 
-
-- 🔭 I’m currently working on back-end API dev and Master degree in Healthcare Interoperability
-- 🌱 I’m currently learning Microservices/Edge/OpenWrt 
-- 👯 I’m looking to collaborate on Emulators and Game Engine dev
+I have experience with: 
+- Lua, C, C++, C#, JS;
+- Network technologies;
+- Godot, Unreal, Unity;
+- React;
+- AI;
+- Virtualization.
 
 <div>
   <a href="https://github.com/allenderalencar">
